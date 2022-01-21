@@ -1,0 +1,1 @@
+Program funguje tak, každou milisekundu se přičítá milisekunda, která se zobrazuje na displeji jak dosáhne 9, tak se vynuluje a přičte se jedna sekunda, takto to jde do 9:59:59. Minuty jsou odděleni od sekund a milisekundy se zobrazují na druhé polovině displeje. Po stisknutí tlačítka se čas zastaví. Čas obnovíme displejem reset.
